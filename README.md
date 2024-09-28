@@ -1,2 +1,3 @@
-# Website_WangGang
+# Website_back_WangGang
 这个项目是王博士（wang`gang）在2024年9月提出的，旨在开发一个可以交流和发布文章的平台。
+该项目用于存放后端开发的代码，方便进行版本管理。
